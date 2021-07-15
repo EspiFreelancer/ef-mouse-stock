@@ -1,0 +1,12 @@
+# General
+*.pyc
+db.sqlite3
+migrations
+media/*
+
+# Special
+project/no_public.py
+LEEME.md
+
+# Virtualenv
+evms/
